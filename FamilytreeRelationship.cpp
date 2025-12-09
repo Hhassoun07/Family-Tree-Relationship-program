@@ -1,7 +1,3 @@
-//Hassan Hassoun
-//Programming assignment 2
-//7/19/2025
-
 #include <iostream>
 #include <string>
 #include<vector>
@@ -269,4 +265,5 @@ int main() {
 
 
 	return 0;
+
 }
